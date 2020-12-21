@@ -1,0 +1,100 @@
+body{
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    margin-top: 5vh;
+    height: auto;
+    min-width: 500px;
+    margin-bottom: 5vh;
+}
+
+main{
+    padding-top: 5%;
+}
+
+#main {
+    width: 95%;
+    height: auto;
+    background-color: #EEEEEE;
+    margin: 0 auto; 
+    border-radius: 1%;
+    text-align: center;
+
+}
+#title h1{
+    font-size: 3em;
+    letter-spacing: 5px;
+}
+
+#img-div {
+    background-color: #FFFFFF;
+    width: 95%;
+    height: auto;
+    margin: 0 auto;
+    
+    
+}
+#img-caption  {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 2%;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 2%;
+}
+.container3 {
+    width: 90%;
+    max-width: 500px;
+    min-width: 500px;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+#tribute-info {
+   padding: 0px;
+   margin: 0px;
+   margin-top: 5%;
+
+}
+#timeline {
+    width: 80%;
+    margin: 0 auto;
+    
+}
+#timeline li{
+    text-align: left;
+    line-height: 1.5em;
+    padding-bottom: 1.5em;
+}
+ul {
+    text-align: justify;
+    margin-left: 8%;
+    padding: 0px;
+    width: 80%;
+}
+
+.container4 {
+    width: 90%;
+    max-width: 500px;
+    min-width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    word-spacing: 5px;
+    line-height: 1.5em;
+}
+
+#tribute-link {
+    padding: 0px;
+    font-size: 1.25em;
+    font-weight: bold;
+    min-width: 90vw;
+    max-width: 80vw;
+    margin: 0 auto;
+    align-self: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
